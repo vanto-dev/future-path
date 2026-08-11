@@ -1,0 +1,6 @@
+{
+  "name": "Pathways",
+  "description": "Comprehensive student future-planning platform with academic calendar intelligence, degree requirement tracking, career timelines, application manager, and an agentic AI career coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
